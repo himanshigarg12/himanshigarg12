@@ -18,19 +18,19 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/himanshi-garg-a61305332">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/YOUR-LEETCODE">
+  <a href="https://leetcode.com/u/HimanshiGarg12">
     <img src="https://img.shields.io/badge/LeetCode-Arrays%20%26%20DSA-A78BFA?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-YOUR--USERNAME-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/himanshigarg12">
+    <img src="https://img.shields.io/badge/GitHub-himanshigarg12-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=PROFILE%20VIEWS&color=6d28d9&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=himanshigarg12&label=PROFILE%20VIEWS&color=6d28d9&style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -131,7 +131,7 @@ Intelligent Indian entertainment platform combining Bollywood/Hollywood/OTT disc
 **Focus:** Full Stack + AI/ML
 **Highlight:** 89% F1-score sentiment analysis model
 
-[🔗 View Repository](https://github.com/YOUR-GITHUB-USERNAME)
+[🔗 View Repository](https://github.com/himanshigarg12)
 
 </td>
 <td width="50%" valign="top">
@@ -143,7 +143,7 @@ An assistive IoT system converting text into speech and sign language to support
 **Focus:** Embedded Systems + Computer Vision
 **Recognition:** 🏆 Secured 4th Position
 
-[🔗 View Repository](https://github.com/YOUR-GITHUB-USERNAME)
+[🔗 View Repository](https://github.com/himanshigarg12)
 
 </td>
 </tr>
@@ -157,7 +157,7 @@ A full-stack social media platform for university students with secure authentic
 **Focus:** Full Stack Development
 **Highlight:** Session management & API-driven data flow
 
-[🔗 View Repository](https://github.com/YOUR-GITHUB-USERNAME)
+[🔗 View Repository](https://github.com/himanshigarg12)
 
 </td>
 <td width="50%" valign="top">
@@ -167,7 +167,7 @@ Actively building new full-stack and AI/ML projects — check my GitHub for the 
 
 **Focus:** Continuous Learning & Building
 
-[🔗 Explore GitHub](https://github.com/YOUR-GITHUB-USERNAME)
+[🔗 Explore GitHub](https://github.com/himanshigarg12)
 
 </td>
 </tr>
@@ -178,7 +178,7 @@ Actively building new full-stack and AI/ML projects — check my GitHub for the 
 ## 💻 Problem Solving
 
 <p align="center">
-  <a href="https://leetcode.com/u/YOUR-LEETCODE">
+  <a href="https://leetcode.com/u/HimanshiGarg12">
     <img src="https://img.shields.io/badge/LeetCode-Solving%20Consistently-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Focus-Arrays%20%26%20DSA-A78BFA?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -208,20 +208,20 @@ Actively building new full-stack and AI/ML projects — check my GitHub for the 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshigarg12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshigarg12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" width="65%"/>
+  <img src="https://streak-stats.demolab.com?user=himanshigarg12&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" width="65%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=himanshigarg12&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1&column=6"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshigarg12&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" width="95%"/>
 </p>
 
 ---
@@ -243,13 +243,13 @@ Open To:    Internships · AI/ML Collaborations · Hackathons
   <a href="mailto:himanshi0409.becse24@chitkara.edu.in">
     <img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/himanshi-garg-a61305332">
     <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/YOUR-LEETCODE">
+  <a href="https://leetcode.com/u/HimanshiGarg12">
     <img src="https://img.shields.io/badge/LeetCode-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <a href="https://github.com/himanshigarg12">
     <img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
